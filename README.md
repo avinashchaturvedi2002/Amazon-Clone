@@ -47,4 +47,7 @@ This project was created with the help of YouTube tutorials and personal problem
 
 - Special thanks to YouTube tutorials for guidance and inspiration.
 - Thanks to the open-source community for providing resources and tools for front-end development.
+![Screenshot 2024-07-17 151236](https://github.com/user-attachments/assets/cf7502ef-2a4f-45c0-8190-f8ceda5816e6)
+![Screenshot 2024-07-17 151221](https://github.com/user-attachments/assets/e7bc5902-e678-4915-b4c8-163ceba6de76)
+![Screenshot 2024-07-17 151157](https://github.com/user-attachments/assets/8ab20f8f-3f13-438c-bb55-544af928e4e1)
 
